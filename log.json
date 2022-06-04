@@ -1,0 +1,23 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "",
+    "db_user": "",
+    "dbms": "0",
+    "description": "generated product",
+    "design": "volt-dashboard",
+    "docker": "1",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "52ce365f-f102-40c1-9ccb-52b7e328ba5e",
+    "task_info": "Task is finished",
+    "task_output": "52ce365f-f102-40c1-9ccb-52b7e328ba5e.zip",
+    "task_result": "SUCCESS",
+    "task_state": "FINISHED",
+    "task_ts_end": "2022-05-25-22-16-29",
+    "task_ts_start": "2022-05-25-22-15-11"
+}
